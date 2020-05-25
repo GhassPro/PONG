@@ -1,9 +1,11 @@
-### Ping Pong Typescript
+# Ping Pong Typescript
 
 ## commands:
 
-# npm install
+### 1.npm install
 
-# tcs dann browserify ./app/js/app.js > ./app/js/bundle.js
+### 2.tcs
 
-# run index.html
+### 3.browserify ./app/js/app.js > ./app/js/bundle.js
+
+### 4.run index.html
