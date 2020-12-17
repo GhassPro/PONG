@@ -4,7 +4,7 @@
   "description": "Ping Pong",
   "main": "app.js",
   "dependencies": {
-    "@types/jquery": "^3.3.38",
+    "@types/jquery": "^3.5.5",
     "jquery": "^3.5.1",
     "js-to-ts-converter": "^0.16.3"
   },
