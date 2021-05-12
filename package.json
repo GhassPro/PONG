@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "@types/jquery": "^3.5.5",
-    "jquery": "^3.5.1",
+    "jquery": "^3.6.0",
     "js-to-ts-converter": "^0.16.3"
   },
   "devDependencies": {},
